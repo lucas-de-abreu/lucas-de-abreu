@@ -16,7 +16,7 @@
 
 <h2 align="center">I'm a full-stack developer and designer.</h2> 
 
-I'm a full-stack developer with over three years of experience in creating web applications. I love challenges and am always on the hunt for new things to learn. I have a degree in Computer Science and a postgraduate degree in Data Science. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm a full-stack developer with over three years of experience in creating web applications. I love challenges and am always on the hunt for new things to learn. I have a degree in Computer Science (in which I've also been awarded a _magna cum laude_) and a postgraduate degree in Data Science. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ## 🔭 I'm currently working on
 
