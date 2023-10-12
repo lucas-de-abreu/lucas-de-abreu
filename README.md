@@ -16,11 +16,11 @@
   </a>
 </p>
 
-<h3 align="center">Yo. I'm Lucas  <img src="https://github.com/lucas-de-abreu/lucas-de-abreu/assets/48230662/2f8f7f8e-b418-4135-b79d-231b0801d433" height="28" width="28"/></h3>
+<h1 align="center">Yo. I'm Lucas  <img src="https://github.com/lucas-de-abreu/lucas-de-abreu/assets/48230662/2f8f7f8e-b418-4135-b79d-231b0801d433" height="28" width="28"/></h1>
 
-<h2 align="center">I'm a full-stack developer and designer.</h2> 
+<h3 align="center">I'm a full-stack developer and designer.</h3> 
 
-I'm a full-stack developer with over three years of experience in creating web applications. I love challenges and am always on the hunt for new things to learn. I have a degree in Computer Science (in which I've also been awarded a _magna cum laude_) and a postgraduate degree in Data Science.
+I'm a full-stack developer from Brazil with over three years of experience in creating web applications. I love challenges and am always on the hunt for new things to learn. I have a degree in Computer Science (in which I've also been awarded a _magna cum laude_) and a postgraduate degree in Data Science.
 
 <div align="center">
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
