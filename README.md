@@ -10,6 +10,10 @@
   <a target="_blank" href="https://www.instagram.com/luks.de.abreu">
     <img src="https://img.shields.io/badge/Instagram-2f2f41?style=for-the-badge&logo=instagram&logoColor=ff79c6"/>
   </a>
+  
+  <a target="_blank" href="https://www.twitter.com/luskitta">
+    <img src="https://img.shields.io/badge/Twitter-2f2f41?style=for-the-badge&logo=x&logoColor=ff79c6"/>
+  </a>
 </p>
 
 <h3 align="center">Yo. I'm Lucas  <img src="https://github.com/lucas-de-abreu/lucas-de-abreu/assets/48230662/2f8f7f8e-b418-4135-b79d-231b0801d433" height="28" width="28"/></h3>
