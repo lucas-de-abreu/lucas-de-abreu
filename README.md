@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/abreu-lucass">
+  <a href="https://www.linkedin.com/in/abreu-lucass">
     <img src="https://img.shields.io/badge/LinkedIn-2f2f41?style=for-the-badge&logo=linkedin&logoColor=ff79c6"/>
   </a>
   
-  <a target="_blank" href="https://www.instagram.com/luks.de.abreu">
+  <a href="https://www.instagram.com/luks.de.abreu">
     <img src="https://img.shields.io/badge/Instagram-2f2f41?style=for-the-badge&logo=instagram&logoColor=ff79c6"/>
   </a>
   
-  <a target="_blank" href="https://www.twitter.com/luskitta">
+  <a href="https://www.twitter.com/luskitta">
     <img src="https://img.shields.io/badge/Twitter-2f2f41?style=for-the-badge&logo=x&logoColor=ff79c6"/>
   </a>
 </p>
