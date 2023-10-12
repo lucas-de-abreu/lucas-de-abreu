@@ -47,8 +47,9 @@ I'm a full-stack developer with over three years of experience in creating web a
 ![Java](https://img.shields.io/badge/Java-2f2f41?style=for-the-badge&logo=openjdk&logoColor=50fa7b)
 ![Spring](https://img.shields.io/badge/Spring-2f2f41?style=for-the-badge&logo=spring&logoColor=50fa7b)
 
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-2f2f41?style=for-the-badge&logo=tailwind-css&logoColor=8be9fd)
+![Tailwind](https://img.shields.io/badge/Tailwind-2f2f41?style=for-the-badge&logo=tailwind-css&logoColor=8be9fd)
 ![CSS3](https://img.shields.io/badge/css3-2f2f41.svg?style=for-the-badge&logo=css3&logoColor=8be9fd)
+![SASS](https://img.shields.io/badge/sass-2f2f41.svg?style=for-the-badge&logo=sass&logoColor=8be9fd)
 ![Styled Components](https://img.shields.io/badge/styled--components-2f2f41?style=for-the-badge&logo=styled-components&logoColor=8be9fd)
 ![MUI](https://img.shields.io/badge/MUI-2f2f41.svg?style=for-the-badge&logo=mui&logoColor=8be9fd)
 
@@ -57,11 +58,11 @@ I'm a full-stack developer with over three years of experience in creating web a
 ![Git](https://img.shields.io/badge/git-2f2f41.svg?style=for-the-badge&logo=git&logoColor=ff79c6)
 ![GitHub](https://img.shields.io/badge/github-2f2f41.svg?style=for-the-badge&logo=github&logoColor=ff79c6)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-2f2f41.svg?style=for-the-badge&logo=microsoft-azure&logoColor=ff79c6)
+![Docker](https://img.shields.io/badge/Docker-2f2f41.svg?style=for-the-badge&logo=docker&logoColor=ff79c6)
 
 ![MySQL](https://img.shields.io/badge/MySQL-2f2f41?style=for-the-badge&logo=mysql&logoColor=ff5555)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2f2f41?style=for-the-badge&logo=postgresql&logoColor=ff5555)
 ![MongoDB](https://img.shields.io/badge/MongoDB-2f2f41?style=for-the-badge&logo=mongodb&logoColor=ff5555)
-
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-2f2f41?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=f1fa8c)
 ![Figma](https://img.shields.io/badge/figma-2f2f41.svg?style=for-the-badge&logo=figma&logoColor=f1fa8c)
