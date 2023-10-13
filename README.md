@@ -41,6 +41,7 @@ I'm a full-stack developer from Brazil with over three years of experience in cr
 ![Redux](https://img.shields.io/badge/Redux-2f2f41?style=for-the-badge&logo=redux&logoColor=a885e9)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2f2f41?style=for-the-badge&logo=typescript&logoColor=a885e9)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2f2f41?style=for-the-badge&logo=JavaScript&logoColor=a885e9)
+![Vite](https://img.shields.io/badge/Vite-2f2f41?style=for-the-badge&logo=Vite&logoColor=a885e9)
 ![ThreeJS](https://img.shields.io/badge/ThreeJS-2f2f41?style=for-the-badge&logo=three.js&logoColor=a885e9)
 ![Stripe](https://img.shields.io/badge/Stripe-2f2f41?style=for-the-badge&logo=Stripe&logoColor=a885e9)
 
