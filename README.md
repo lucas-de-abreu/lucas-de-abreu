@@ -34,6 +34,9 @@ I'm a full-stack developer from Brazil with over three years of experience in cr
 
 - react still cuz it's never enough
 - mercure
+- firebase
+- vuejs
+- angular
 
 ## 💼 Technical Skillz (with a z)
 
