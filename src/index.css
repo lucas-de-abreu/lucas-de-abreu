@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Barlow', sans-serif;
+  -webkit-font-smoothing: antialised;
+  -webkit-transform: translateZ(0);
+}
