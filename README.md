@@ -79,13 +79,6 @@ I'm a full-stack developer from Brazil with over three years of experience in cr
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=lucas-de-abreu&theme=dracula&date_format=M%20j%5B%2C%20Y%5D"
-    alt="Lucas's Commit Streak"
-  />
-</div>
-
-<div align="center">
-  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-de-abreu&theme=dracula&layout=compact"
     alt="Lucas's Top Languages"
   />
