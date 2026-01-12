@@ -75,13 +75,3 @@ I'm a full-stack developer from Brazil with over three years of experience in cr
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-2f2f41?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=f1fa8c)
 ![Figma](https://img.shields.io/badge/figma-2f2f41.svg?style=for-the-badge&logo=figma&logoColor=f1fa8c)
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-de-abreu&theme=dracula&layout=compact"
-    alt="Lucas's Top Languages"
-  />
-</div>
-
-
